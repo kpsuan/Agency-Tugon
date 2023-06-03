@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kpsuan/Agency-Tugon.git/static/css/main.0d778f70.css",
+    "main.js": "/kpsuan/Agency-Tugon.git/static/js/main.581fdce4.js",
+    "static/media/icon.jpg": "/kpsuan/Agency-Tugon.git/static/media/icon.5b85c582ff3c99d8a9a9.jpg",
+    "static/media/tugonlogo.png": "/kpsuan/Agency-Tugon.git/static/media/tugonlogo.78b0e5a4de5e01f787f2.png",
+    "index.html": "/kpsuan/Agency-Tugon.git/index.html",
+    "main.0d778f70.css.map": "/kpsuan/Agency-Tugon.git/static/css/main.0d778f70.css.map",
+    "main.581fdce4.js.map": "/kpsuan/Agency-Tugon.git/static/js/main.581fdce4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d778f70.css",
+    "static/js/main.581fdce4.js"
+  ]
+}
